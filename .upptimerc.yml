@@ -4,7 +4,7 @@ repo: naamche/claire # The name of this repository
 
 sites:
   - name: Claire FE
-    url: realpha.com
+    url: https://www.realpha.com/
   - name: Claire API
     url: https://backend-prod.realpha.com/aire-backend/api/health/
 
