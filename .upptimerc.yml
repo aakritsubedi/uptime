@@ -7,16 +7,24 @@ sites:
     url: https://www.realpha.com/
   - name: Claire API
     url: https://backend-prod.realpha.com/aire-backend/api/health/
+  - name: Data Repo
+    url: https://data.prod.realpha.com/health/
+  - name: Claire FE (Staging)
+    url: https://www.realpha.com/
+  - name: Claire API (Staging)
+    url: https://backend-prod.realpha.com/aire-backend/api/health/
+  - name: Data Repo (Staging)
+    url: https://data.staging.realpha.com/health/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Claire Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://static.realpha.com/claire/assets/realpha-logo-text.png
+  name: Claire Status
+  introTitle: "**reAlpha** | AI-Powered, Commission-Free Homebuying"
+  introMessage: "Discover your perfect home with reAlpha, the world's first AI-powered, commission-free real estate platform. Save money and time with our innovative home buying experience."
   navbar:
     - title: Status
       href: /
