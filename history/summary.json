@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 133,
+    "timeDay": 87,
+    "timeWeek": 138,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 210,
-    "timeWeek": 172,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 226,
+    "timeDay": 318,
+    "timeWeek": 189,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 269,
-    "timeWeek": 229,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 263,
+    "timeDay": 368,
+    "timeWeek": 237,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 14,
-    "timeWeek": 9,
+    "timeDay": 7,
+    "timeWeek": 8,
     "timeMonth": 7,
     "timeYear": 7,
     "dailyMinutesDown": {}
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 32,
-    "timeDay": 28,
-    "timeWeek": 22,
-    "timeMonth": 32,
-    "timeYear": 32,
+    "time": 34,
+    "timeDay": 64,
+    "timeWeek": 27,
+    "timeMonth": 34,
+    "timeYear": 34,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.staging.realpha.com.ico",
     "slug": "data-repo-staging",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 810,
-    "timeDay": 2192,
-    "timeWeek": 1233,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "uptime": "99.93%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 798,
+    "timeDay": 2199,
+    "timeWeek": 1236,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-10-02": 30
+      "2024-10-02": 22
     }
   }
 ]
