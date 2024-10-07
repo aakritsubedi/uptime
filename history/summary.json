@@ -94,9 +94,9 @@
     "url": "https://data.staging.realpha.com/health/",
     "icon": "https://icons.duckduckgo.com/ip3/data.staging.realpha.com.ico",
     "slug": "data-repo-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -106,6 +106,7 @@
     "timeMonth": 750,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2024-10-07": 0,
       "2024-10-02": 22
     }
   }
