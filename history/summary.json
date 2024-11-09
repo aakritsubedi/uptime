@@ -22,18 +22,20 @@
     "url": "https://backend-prod.realpha.com/aire-backend/api/health/",
     "icon": "https://icons.duckduckgo.com/ip3/backend-prod.realpha.com.ico",
     "slug": "claire-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 215,
-    "timeWeek": 261,
-    "timeMonth": 237,
-    "timeYear": 231,
-    "dailyMinutesDown": {}
+    "time": 386,
+    "timeDay": 5203,
+    "timeWeek": 1502,
+    "timeMonth": 548,
+    "timeYear": 386,
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "Data Repo",
