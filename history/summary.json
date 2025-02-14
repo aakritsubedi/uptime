@@ -24,9 +24,9 @@
     "slug": "claire-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
     "timeDay": 287,
@@ -34,7 +34,6 @@
     "timeMonth": 265,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-02-13": 3,
       "2024-11-09": 27
     }
   },
@@ -45,18 +44,16 @@
     "slug": "data-repo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 275,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2025-02-13": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Claire FE (Staging)",
@@ -83,18 +80,16 @@
     "slug": "claire-api-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
     "timeDay": 43,
     "timeWeek": 40,
     "timeMonth": 42,
     "timeYear": 38,
-    "dailyMinutesDown": {
-      "2025-02-13": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Data Repo (Staging)",
@@ -103,8 +98,8 @@
     "slug": "data-repo-staging",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.62%",
     "time": 1427,
@@ -113,7 +108,6 @@
     "timeMonth": 2659,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2025-02-13": 3,
       "2025-02-01": 326,
       "2025-01-31": 68,
       "2025-01-18": 96,
