@@ -1,7 +1,7 @@
 url: https://data.prod.realpha.com/health/
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2025-03-04T23:02:26.865Z
+status: down
+code: 403
+responseTime: 204
+lastUpdated: 2025-03-05T22:06:27.172Z
 startTime: 2024-09-10T17:17:44.934Z
 generator: Upptime <https://github.com/upptime/upptime>
