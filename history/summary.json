@@ -107,7 +107,7 @@
     "url": "https://data.staging.realpha.com/health/",
     "icon": "https://icons.duckduckgo.com/ip3/data.staging.realpha.com.ico",
     "slug": "data-repo-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "95.03%",
     "uptimeWeek": "99.29%",
