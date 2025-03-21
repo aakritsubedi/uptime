@@ -1,7 +1,7 @@
 url: https://data.staging.realpha.com/health/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-21T16:14:37.955Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2025-03-21T16:24:55.770Z
 startTime: 2024-09-10T17:17:46.527Z
 generator: Upptime <https://github.com/upptime/upptime>
