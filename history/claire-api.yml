@@ -1,7 +1,7 @@
 url: https://backend-prod.realpha.com/aire-backend/api/health/
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2025-03-29T23:02:48.286Z
+status: down
+code: 403
+responseTime: 202
+lastUpdated: 2025-03-30T04:52:46.354Z
 startTime: 2024-09-10T17:00:11.789Z
 generator: Upptime <https://github.com/upptime/upptime>
